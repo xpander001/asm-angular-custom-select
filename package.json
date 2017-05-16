@@ -1,0 +1,32 @@
+{
+  "name": "asm-angular-custom-select",
+  "version": "0.0.1",
+  "description": "A custom angular 1.X component emulating normalized behaviour for select inputs in mobile.",
+  "main": "./dist/asm-angular-custom-select.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpander001/asm-angular-custom-select.git"
+  },
+  "keywords": [
+    "angular",
+    "select"
+  ],
+  "author": "Ander Suarez <me@andersuarez.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/xpander001/asm-angular-custom-select/issues"
+  },
+  "homepage": "https://github.com/xpander001/asm-angular-custom-select#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.11",
+    "eslint": "^3.19.0",
+    "eslint-config-jinn": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}

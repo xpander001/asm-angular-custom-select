@@ -1,0 +1,13 @@
+{
+  "rules": {
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jasmine": true
+  },
+  "extends": ["eslint:recommended", "jinn"],
+  "globals": {
+    "angular": false
+  }
+}
